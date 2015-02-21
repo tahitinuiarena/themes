@@ -1,0 +1,232 @@
+﻿/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+/* Table of Content
+==================================================
+	#Site Styles
+	#Page Styles
+	#Media Queries
+	#Font-Face */
+
+/* #Site Styles
+================================================== */
+
+/* #Page Styles
+================================================== */
+
+/* #Media Queries
+================================================== */
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {
+		#wrapper { width: 1000px; }
+		.jcarousel-skin-tango .jcarousel-item { width: 220px !important;}
+		.jcarousel-skin-tango .jcarousel-item img {	width: 210px; height: 150px; }
+		li.custom-with-bg { width: 620px }
+
+		#content_masonry{ width: 680px; }	
+		#content_masonry .masonry_box { width: 290px; }	
+	}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
+		#wrapper { width: 808px; }		
+		#slider, #slider-item{ width: 498px; height: 300px; } 
+		
+		.jcarousel-skin-tango .jcarousel-item { width: 172px !important; }
+		.jcarousel-skin-tango .jcarousel-item img { width: 162px; height: 116px; }
+		.carousel-thumb .mask { width: 162px; height: 116px; }
+		.jcarousel-skin-tango .jcarousel-item-horizontal { margin-right: 20px; }
+
+
+		.one-col-horiz-left, .one-col-horiz-right { width: 508px;  }
+		.one-col-horiz-left img, .one-col-horiz-right img { max-width: 498px; }
+		
+		.four-ads-blocks li a img { width: 210px !important; height: 210px !important }
+		
+		#overscore-block { width: 60% }
+		
+		.overall-head, .wrapper-criteria { width: 90% }
+
+		li.custom-with-bg { width: 488px }
+
+		#search-input { width: 190px !important; }	
+		
+
+		#content_masonry{ width: 600px; }	
+		#content_masonry .masonry_box { width: 225px; }			
+		.masonry_box .single-media-thumb { height: 100px }
+    }
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {
+/*		#wrapper { width: auto; }*/
+
+	}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
+		#wrapper { width: 480px; }
+		#s { float: left; margin-bottom: 15px; }		
+		#slider, #slider-item{ width: 410px; height: 300px; }
+				
+		#menu { display: none; }	
+		.navigation select { display: block; }
+
+		.jcarousel-skin-tango .jcarousel-item { width: 200px !important; }
+		.jcarousel-skin-tango .jcarousel-item img {	width: 190px; height: 136px; }
+		.jcarousel-skin-tango .jcarousel-item-horizontal { margin-right: 20px; }
+
+		.jcarousel-skin-tango .jcarousel-next-horizontal { right: 0px }
+		.jcarousel-skin-tango .jcarousel-prev-horizontal { right: 20px }		
+
+		.carousel-thumb.four.columns { width:200px;}
+		.carousel-thumb .post-comments { right: 0px; }
+		.carousel-thumb .mask { width: 190px; height: 136px; }
+
+		.one-col-horiz-left, .one-col-horiz-right { width: 420px }
+		.one-col-horiz-left img, .one-col-horiz-right img { max-width: 410px; }
+
+		.four-ads-blocks li a img { width: 195px !important; height: 195px !important }
+
+		.responsive-textarea { width: 390px; }
+
+		.single-post-meta li.date-icon, .single-post-meta li.category-icon { display: none }
+
+		#overscore-block { width: 100% }
+		.overall-head, .wrapper-criteria { width: 92.9% }
+	
+		li.custom-with-bg { width: 400px }
+
+		#search-input { width: 390px !important; }
+
+		#content_masonry{ width: 600px; }	
+		#content_masonry .masonry_box { width: 400px; }				
+	}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+/*	@media only screen and (max-width: 479px) {*/
+@media (min-width: 320px) and  (max-width: 479px) {
+		#wrapper { width: 361px; }
+		#slider, #slider-item{ width: 290px; height: 300px;	} 
+		
+		#s { float: left; margin-bottom: 15px; }	
+		#menu { display: none; }	
+		.navigation select { display: block; }
+	
+		.jcarousel-skin-tango .jcarousel-item { width: 300px !important; }
+		.jcarousel-skin-tango .jcarousel-item img { width: 290px; height: 207px; }
+		.jcarousel-skin-tango .jcarousel-item-horizontal { margin-right: 20px; }
+		.carousel-thumb .post-comments { right: 0px; }
+		.carousel-thumb .mask { width: 290px; height: 207px; }
+
+		.jcarousel-skin-tango .jcarousel-next-horizontal { right: 0px }
+		.jcarousel-skin-tango .jcarousel-prev-horizontal { right: 20px }		
+		
+		.one-col-horiz-left, .one-col-horiz-right { width: 300px }
+		.one-col-horiz-left img, .one-col-horiz-right img { max-width: 290px; }
+
+		.four-ads-blocks li a img { width: 135px !important; height: 135px !important }
+
+		.responsive-textarea {  width: 270px; }
+
+		.single-post-meta li.date-icon, .single-post-meta li.category-icon { display: none }
+	
+		#overscore-block { width: 100% }
+		.overall-head, .wrapper-criteria { width: 90% }
+		li.custom-with-bg { width: 280px }
+		
+		#search-input { width: 270px !important; }
+
+		li.custom-with-bg .single-post-format-icon { display: none} 
+
+		#content_masonry{ width: 300px; }	
+		#content_masonry .masonry_box { width: 280px; }			
+	}
+
+@media only screen and (max-width: 320px) {
+          #wrapper { width: auto !important;  }
+		.container { width: auto !important; }
+
+        .container .one.column,
+        .container .one.columns,
+        .container .two.columns,
+        .container .three.columns,
+        .container .four.columns,
+        .container .five.columns,
+        .container .six.columns,
+        .container .seven.columns,
+        .container .eight.columns,
+        .container .nine.columns,
+        .container .ten.columns,
+        .container .eleven.columns,
+        .container .twelve.columns,
+        .container .thirteen.columns,
+        .container .fourteen.columns,
+        .container .fifteen.columns,
+        .container .sixteen.columns,
+        .container .one-third.column,
+        .container .two-thirds.column  { width: 100% !important; margin-right: 0 !important  }
+
+
+		#slider, #slider-item, .slider-block{ width: 290px; height: 300px;	} 
+		
+		#s { float: left; margin-bottom: 15px; width: 260px }	
+		#menu { display: none; }	
+		.navigation select { display: block; width: 300px; }
+	
+		.jcarousel-skin-tango .jcarousel-item { width: 300px !important; }
+		.jcarousel-skin-tango .jcarousel-item img { width: 290px; height: 207px; }
+		.jcarousel-skin-tango .jcarousel-item-horizontal { margin-right: 20px; }
+		.carousel-thumb .post-comments { right: 0px; }
+		.carousel-thumb .mask { width: 290px; height: 207px; }
+
+		.jcarousel-skin-tango .jcarousel-next-horizontal { right: 0px }
+		.jcarousel-skin-tango .jcarousel-prev-horizontal { right: 20px }		
+		
+		.one-col-horiz-left, .one-col-horiz-right { width: 302px ; margin-right: 0}
+		.one-col-horiz-left img, .one-col-horiz-right img { max-width: 292px; }
+
+		.four-ads-blocks li a img { width: 135px !important; height: 135px !important }
+
+		.responsive-textarea {  width: auto !important; min-width: 250px !important }
+
+		.single-post-meta li.date-icon, .single-post-meta li.category-icon { display: none }
+	
+		#overscore-block { width: 100% }
+		.overall-head, .wrapper-criteria { width: 90% }
+		li.custom-with-bg { width: 280px }
+		
+
+		#content_masonry{ width: 280px; }	
+		#content_masonry .masonry_box { width: 280px; }	
+		.banner a img { width: 270px }	        
+}
+
+
+
+
+
+/* #Font-Face
+================================================== */
+/* 	This is the proper syntax for an @font-face file
+		Just create a "fonts" folder at the root,
+		copy your FontName into code below and remove
+		comment brackets */
+
+/*	@font-face {
+	    font-family: 'FontName';
+	    src: url('../fonts/FontName.eot');
+	    src: url('../fonts/FontName.eot?iefix') format('eot'),
+	         url('../fonts/FontName.woff') format('woff'),
+	         url('../fonts/FontName.ttf') format('truetype'),
+	         url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
+	    font-weight: normal;
+	    font-style: normal; }
+*/

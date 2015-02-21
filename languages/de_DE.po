@@ -1,0 +1,1416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Crumble - Responsive Wordpress Magazine / Blog v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-07-28 10:17:31+0000\n"
+"Last-Translator: admin <zerge.com@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:21
+#@ crumble
+msgid "Sorry, the page you are looking for could not be found."
+msgstr ""
+
+#: admin/classes/class.options_machine.php:456
+#@ crumble
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:42
+#: admin/front-end/options.php:66
+#@ crumble
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:67
+#@ crumble
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:20
+#@ crumble
+msgid "Options"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ optionsframework
+msgid "Gallery"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ optionsframework
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/functions/functions.options.php:194
+#@ crumble
+msgid "General Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:197
+#@ crumble
+msgid "Type Of Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:198
+#@ crumble
+msgid "Select your logo type ( Image or Text )"
+msgstr ""
+
+#: admin/functions/functions.options.php:205
+#@ crumble
+msgid "Logo Upload"
+msgstr ""
+
+#: admin/functions/functions.options.php:206
+#: admin/functions/functions.options.php:253
+#@ crumble
+msgid "Upload images using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:211
+#@ crumble
+msgid "Logo Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:212
+#@ crumble
+msgid "Enter text for logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:217
+#@ crumble
+msgid "Logo Slogan"
+msgstr ""
+
+#: admin/functions/functions.options.php:218
+#@ crumble
+msgid "Enter text for logo slogan"
+msgstr ""
+
+#: admin/functions/functions.options.php:223
+#@ crumble
+msgid "Sidebar Position"
+msgstr ""
+
+#: admin/functions/functions.options.php:224
+#@ crumble
+msgid "Select a location sidebar"
+msgstr ""
+
+#: admin/functions/functions.options.php:230
+#@ crumble
+msgid "Show Date & Time In Top"
+msgstr ""
+
+#: admin/functions/functions.options.php:231
+#@ crumble
+msgid "Show/Hide date & Time"
+msgstr ""
+
+#: admin/functions/functions.options.php:237
+#@ crumble
+msgid "Show Search Block In Top"
+msgstr ""
+
+#: admin/functions/functions.options.php:238
+#@ crumble
+msgid "Show/Hide Search block"
+msgstr ""
+
+#: admin/functions/functions.options.php:244
+#@ crumble
+msgid "Show The Second Menu Instead Of The Date"
+msgstr ""
+
+#: admin/functions/functions.options.php:245
+#@ crumble
+msgid "Show/Hide additional navigation"
+msgstr ""
+
+#: admin/functions/functions.options.php:252
+#@ crumble
+msgid "Banner Upload"
+msgstr ""
+
+#: admin/functions/functions.options.php:258
+#@ crumble
+msgid "Banner Link"
+msgstr ""
+
+#: admin/functions/functions.options.php:259
+#@ crumble
+msgid "Enter url for banner in top section"
+msgstr ""
+
+#: admin/functions/functions.options.php:265
+#@ crumble
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:266
+#@ crumble
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: admin/functions/functions.options.php:272
+#@ crumble
+msgid "Google Fonts Link Stylesheet"
+msgstr ""
+
+#: admin/functions/functions.options.php:273
+#@ crumble
+msgid "Paste code for stylesheet from Google Fonts"
+msgstr ""
+
+#: admin/functions/functions.options.php:278
+#@ crumble
+msgid "Google Fonts Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:279
+#@ crumble
+msgid "Paste code for Fonts from Google"
+msgstr ""
+
+#: admin/functions/functions.options.php:285
+#@ crumble
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:286
+#@ crumble
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: admin/functions/functions.options.php:298
+#@ crumble
+msgid "Carousel Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:302
+#@ crumble
+msgid "Enable / Disable Carousel"
+msgstr ""
+
+#: admin/functions/functions.options.php:303
+#@ crumble
+msgid "Show or Hide carousel on the homepage"
+msgstr ""
+
+#: admin/functions/functions.options.php:309
+#@ crumble
+msgid "Title for Carousel"
+msgstr ""
+
+#: admin/functions/functions.options.php:310
+#@ crumble
+msgid "Enter title for featured carousel"
+msgstr ""
+
+#: admin/functions/functions.options.php:315
+#@ crumble
+msgid "Select a Category"
+msgstr ""
+
+#: admin/functions/functions.options.php:316
+#@ crumble
+msgid "Pick category for the carousels on home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:322
+#@ crumble
+msgid "Select A Method Of Animation"
+msgstr ""
+
+#: admin/functions/functions.options.php:323
+#@ crumble
+msgid "Pick easing animation for carousel"
+msgstr ""
+
+#: admin/functions/functions.options.php:329
+#@ crumble
+msgid "Speed Of Animation"
+msgstr ""
+
+#: admin/functions/functions.options.php:330
+#@ crumble
+msgid "Enter value for easing animation in milliseconds"
+msgstr ""
+
+#: admin/functions/functions.options.php:340
+#@ crumble
+msgid "Featured Slider"
+msgstr ""
+
+#: admin/functions/functions.options.php:343
+#@ crumble
+msgid "Show Slider On The Homepage"
+msgstr ""
+
+#: admin/functions/functions.options.php:344
+#@ crumble
+msgid "Enable or Disable slider on the homepage"
+msgstr ""
+
+#: admin/functions/functions.options.php:350
+#@ crumble
+msgid "Slider Animation Effect"
+msgstr ""
+
+#: admin/functions/functions.options.php:351
+#@ crumble
+msgid "Select the type of animation"
+msgstr ""
+
+#: admin/functions/functions.options.php:357
+#@ crumble
+msgid "Number Of Slider Items"
+msgstr ""
+
+#: admin/functions/functions.options.php:358
+#@ crumble
+msgid "Enter the number for show slides"
+msgstr ""
+
+#: admin/functions/functions.options.php:363
+#@ crumble
+msgid "The Post's Tags for slider"
+msgstr ""
+
+#: admin/functions/functions.options.php:364
+#@ crumble
+msgid "Enter the tags separated by comma"
+msgstr ""
+
+#: admin/functions/functions.options.php:369
+#@ crumble
+msgid "Speed For Slider Animation"
+msgstr ""
+
+#: admin/functions/functions.options.php:370
+#@ crumble
+msgid "Enter value for slider animation in milliseconds"
+msgstr ""
+
+#: admin/functions/functions.options.php:375
+#@ crumble
+msgid "Pause For Slides"
+msgstr ""
+
+#: admin/functions/functions.options.php:376
+#@ crumble
+msgid "Enter value for pause between slides animation in milliseconds"
+msgstr ""
+
+#: admin/functions/functions.options.php:381
+#@ crumble
+msgid "Caption Opacity"
+msgstr ""
+
+#: admin/functions/functions.options.php:382
+#@ crumble
+msgid "Enter value caption opacity. Value between 0..1 (0.1, 0.2, ... , 1)"
+msgstr ""
+
+#: admin/functions/functions.options.php:387
+#@ crumble
+msgid "Color For Control Circle"
+msgstr ""
+
+#: admin/functions/functions.options.php:388
+#@ crumble
+msgid "Pick a color for control circle in slider"
+msgstr ""
+
+#: admin/functions/functions.options.php:393
+#@ crumble
+msgid "Color For Active Control Circle"
+msgstr ""
+
+#: admin/functions/functions.options.php:394
+#@ crumble
+msgid "Pick a color for active control circle in slider"
+msgstr ""
+
+#: admin/functions/functions.options.php:402
+#@ crumble
+msgid "Theme Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:403
+#@ crumble
+msgid "Pick a color for the theme"
+msgstr ""
+
+#: admin/functions/functions.options.php:408
+#@ crumble
+msgid "Use Background Image or BG Color?"
+msgstr ""
+
+#: admin/functions/functions.options.php:409
+#@ crumble
+msgid "Select the type of usage background"
+msgstr ""
+
+#: admin/functions/functions.options.php:417
+#@ crumble
+msgid "Background Images"
+msgstr ""
+
+#: admin/functions/functions.options.php:418
+#@ crumble
+msgid "Select a background pattern."
+msgstr ""
+
+#: admin/functions/functions.options.php:434
+#@ crumble
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:435
+#@ crumble
+msgid "Pick a background color for the theme (default: #454545)."
+msgstr ""
+
+#: admin/functions/functions.options.php:452
+#: admin/functions/functions.options.php:455
+#@ crumble
+msgid "Copyrights"
+msgstr ""
+
+#: admin/functions/functions.options.php:456
+#@ crumble
+msgid "Enter your copyrights"
+msgstr ""
+
+#: comments.php:52
+#@ crumble
+msgid "You must be"
+msgstr ""
+
+#: comments.php:52
+#@ crumble
+msgid "logged in"
+msgstr ""
+
+#: comments.php:52
+#@ crumble
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:85
+#@ crumble
+msgid "Note: All fields are required to fill in!"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-horizontal.php:41
+#@ crumble
+msgid "1 Column Horizontal Magazine Widget (show recent posts)."
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-horizontal.php:47
+#@ crumble
+msgid "TNA : 1 Column Magazine Widget"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-horizontal.php:207
+#: functions/crumble-recent-posts-widget.php:136
+#: functions/crumble-tabs-widget.php:187
+#@ crumble
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-horizontal.php:210
+#: functions/crumble-4ads125x125-widget.php:124
+#: functions/crumble-ads300x250-widget.php:107
+#: functions/crumble-fbcomments-widget.php:113
+#: functions/crumble-fblikebox-widget.php:120
+#: functions/crumble-fbsubscribe-widget.php:120
+#: functions/crumble-flickr-widget.php:146
+#: functions/crumble-popular-post-widget.php:143
+#: functions/crumble-recent-comments-widget.php:142
+#: functions/crumble-recent-posts-thumbs-widget.php:121
+#: functions/crumble-recent-posts-widget.php:140
+#: functions/crumble-recent-reviews-widget.php:184
+#: functions/crumble-related-posts-widget.php:149
+#: functions/crumble-sharethis-widget.php:110
+#: functions/crumble-video-widget.php:115
+#: functions/crumble-widget-twitter.php:130
+#: functions/social-counter/social-counter-widget.php:85
+#@ crumble
+msgid "Title:"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-horizontal.php:215
+#: functions/crumble-recent-posts-thumbs-widget.php:126
+#: functions/crumble-recent-posts-widget.php:145
+#: functions/crumble-tabs-widget.php:196
+#@ crumble
+msgid "Filter by Category:"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-horizontal.php:226
+#: functions/crumble-recent-posts-thumbs-widget.php:137
+#: functions/crumble-recent-posts-widget.php:156
+#: functions/crumble-recent-reviews-widget.php:190
+#@ crumble
+msgid "Number of posts:"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-horizontal.php:232
+#: functions/crumble-1-column-magazine-widget-reviews.php:366
+#: functions/crumble-2-columns-magazine-widget-reviews.php:603
+#: functions/crumble-2-columns-magazine-widget-reviews.php:643
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:272
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:306
+#: functions/crumble-2-columns-magazine-widget-vertical.php:375
+#: functions/crumble-2-columns-magazine-widget-vertical.php:413
+#@ crumble
+msgid "Show thumbnail image"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-horizontal.php:236
+#: functions/crumble-1-column-magazine-widget-reviews.php:370
+#: functions/crumble-2-columns-magazine-widget-reviews.php:607
+#: functions/crumble-2-columns-magazine-widget-reviews.php:647
+#: functions/crumble-2-columns-magazine-widget-vertical.php:379
+#: functions/crumble-2-columns-magazine-widget-vertical.php:418
+#@ crumble
+msgid "Show icons in meta information (for Big Image)"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-horizontal.php:241
+#: functions/crumble-1-column-magazine-widget-reviews.php:375
+#: functions/crumble-2-columns-magazine-widget-reviews.php:612
+#: functions/crumble-2-columns-magazine-widget-reviews.php:652
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:277
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:312
+#: functions/crumble-2-columns-magazine-widget-vertical.php:384
+#: functions/crumble-2-columns-magazine-widget-vertical.php:423
+#@ crumble
+msgid "Show icons in meta information"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-reviews.php:40
+#@ crumble
+msgid "1 Column Review Magazine Widget (show recent reviews)."
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-reviews.php:46
+#@ crumble
+msgid "TNA : 1 Column Review Magazine Widget"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-reviews.php:337
+#: functions/crumble-2-columns-magazine-widget-reviews.php:576
+#: functions/crumble-2-columns-magazine-widget-reviews.php:616
+#@ crumble
+msgid "Latest Reviews"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-reviews.php:345
+#: functions/crumble-2-columns-magazine-widget-reviews.php:584
+#: functions/crumble-2-columns-magazine-widget-reviews.php:624
+#@ crumble
+msgid "Select Category:"
+msgstr ""
+
+#: functions/crumble-1-column-magazine-widget-reviews.php:359
+#@ crumble
+msgid "Number of reviews:"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-reviews.php:40
+#@ crumble
+msgid "2 Columns Reviews Magazine Widget (show recent reviews)."
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-reviews.php:46
+#@ crumble
+msgid "TNA : 2 Columns Reviews Magazine Widget"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-reviews.php:579
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:250
+#: functions/crumble-2-columns-magazine-widget-vertical.php:353
+#@ crumble
+msgid "Title (1st column):"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-reviews.php:596
+#@ crumble
+msgid "Number of reviews (1st column):"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-reviews.php:619
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:284
+#: functions/crumble-2-columns-magazine-widget-vertical.php:391
+#@ crumble
+msgid "Title (2nd column):"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-reviews.php:636
+#@ crumble
+msgid "Number of reviews (2nd column):"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:40
+#@ crumble
+msgid "2 Columns Small Thumbs Magazine Widget (show recent posts)."
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:46
+#@ crumble
+msgid "TNA : 2 Columns Thumbs Magazine Widget"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:247
+#: functions/crumble-2-columns-magazine-widget-vertical.php:350
+#@ crumble
+msgid "First Column"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:255
+#: functions/crumble-2-columns-magazine-widget-vertical.php:358
+#@ crumble
+msgid "Filter by Category (1st column):"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:266
+#: functions/crumble-2-columns-magazine-widget-vertical.php:369
+#@ crumble
+msgid "Number of posts (1st column):"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:281
+#: functions/crumble-2-columns-magazine-widget-vertical.php:388
+#@ crumble
+msgid "Second Column"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:289
+#: functions/crumble-2-columns-magazine-widget-vertical.php:396
+#@ crumble
+msgid "Filter by Category (2nd column):"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-thumbs.php:300
+#: functions/crumble-2-columns-magazine-widget-vertical.php:407
+#@ crumble
+msgid "Number of posts (2nd column):"
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-vertical.php:40
+#@ crumble
+msgid "2 Columns Vertical Magazine Widget (show recent posts)."
+msgstr ""
+
+#: functions/crumble-2-columns-magazine-widget-vertical.php:46
+#@ crumble
+msgid "TNA : 2 Columns Magazine Widget"
+msgstr ""
+
+#: functions/crumble-4ads125x125-widget.php:41
+#@ crumble
+msgid "TNA: 4 Ads 125x125 for sidebar widget"
+msgstr ""
+
+#: functions/crumble-4ads125x125-widget.php:47
+#@ crumble
+msgid "TNA: 4 Ads 125x125"
+msgstr ""
+
+#: functions/crumble-4ads125x125-widget.php:119
+#@ crumble
+msgid "ADS125x125"
+msgstr ""
+
+#: functions/crumble-4ads125x125-widget.php:129
+#: functions/crumble-ads300x250-widget.php:112
+#: functions/crumble-ads630x90-widget.php:92
+#@ crumble
+msgid "Link Url:"
+msgstr ""
+
+#: functions/crumble-4ads125x125-widget.php:134
+#: functions/crumble-ads300x250-widget.php:117
+#: functions/crumble-ads630x90-widget.php:97
+#@ crumble
+msgid "Image Url:"
+msgstr ""
+
+#: functions/crumble-4ads125x125-widget.php:139
+#@ crumble
+msgid "Link2 Url:"
+msgstr ""
+
+#: functions/crumble-4ads125x125-widget.php:144
+#@ crumble
+msgid "Image2 Url:"
+msgstr ""
+
+#: functions/crumble-4ads125x125-widget.php:149
+#@ crumble
+msgid "Link3 Url:"
+msgstr ""
+
+#: functions/crumble-4ads125x125-widget.php:154
+#@ crumble
+msgid "Image3 Url:"
+msgstr ""
+
+#: functions/crumble-4ads125x125-widget.php:159
+#@ crumble
+msgid "Link4 Url:"
+msgstr ""
+
+#: functions/crumble-4ads125x125-widget.php:164
+#@ crumble
+msgid "Image4 Url:"
+msgstr ""
+
+#: functions/crumble-ads300x250-widget.php:41
+#@ crumble
+msgid "TNA: Ads 300x250 for sidebar widget"
+msgstr ""
+
+#: functions/crumble-ads300x250-widget.php:47
+#@ crumble
+msgid "TNA: Ads 300x250"
+msgstr ""
+
+#: functions/crumble-ads300x250-widget.php:101
+#@ crumble
+msgid "ADS300"
+msgstr ""
+
+#: functions/crumble-ads630x90-widget.php:41
+#@ crumble
+msgid "Ads for Magazine Widget"
+msgstr ""
+
+#: functions/crumble-ads630x90-widget.php:47
+#@ crumble
+msgid "TNA: Ads 630x90"
+msgstr ""
+
+#: functions/crumble-author-profile-widget.php:42
+#@ crumble
+msgid "Author Profile Widget For Single Post/Reviews Widgets"
+msgstr ""
+
+#: functions/crumble-author-profile-widget.php:48
+#@ crumble
+msgid "TNA: Author Profile Widget"
+msgstr ""
+
+#: functions/crumble-author-profile-widget.php:138
+#@ crumble
+msgid "Show Avatar"
+msgstr ""
+
+#: functions/crumble-author-profile-widget.php:143
+#@ crumble
+msgid "Show Social Icons"
+msgstr ""
+
+#: functions/crumble-fbcomments-widget.php:42
+#@ crumble
+msgid "FB Comments Widget For Single Post / Reviews Widgets"
+msgstr ""
+
+#: functions/crumble-fbcomments-widget.php:48
+#@ crumble
+msgid "TNA: FB Comments"
+msgstr ""
+
+#: functions/crumble-fbcomments-widget.php:108
+#@ crumble
+msgid "FB Comments"
+msgstr ""
+
+#: functions/crumble-fbcomments-widget.php:118
+#: functions/crumble-recent-comments-widget.php:148
+#@ crumble
+msgid "Number of comments:"
+msgstr ""
+
+#: functions/crumble-fbcomments-widget.php:123
+#@ crumble
+msgid "FB Language:"
+msgstr ""
+
+#: functions/crumble-fbcomments-widget.php:128
+#: functions/crumble-fblikebox-widget.php:151
+#: functions/crumble-fbsubscribe-widget.php:139
+#@ crumble
+msgid "Theme Color:"
+msgstr ""
+
+#: functions/crumble-fblikebox-widget.php:42
+#@ crumble
+msgid "FB Like Box Widget For Sidebar"
+msgstr ""
+
+#: functions/crumble-fblikebox-widget.php:48
+#@ crumble
+msgid "TNA: FB Like Box"
+msgstr ""
+
+#: functions/crumble-fblikebox-widget.php:115
+#@ crumble
+msgid "FB Like Box"
+msgstr ""
+
+#: functions/crumble-fblikebox-widget.php:125
+#@ crumble
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: functions/crumble-fblikebox-widget.php:130
+#: functions/crumble-fbsubscribe-widget.php:147
+#@ crumble
+msgid "Facebook Language:"
+msgstr ""
+
+#: functions/crumble-fblikebox-widget.php:137
+#: functions/crumble-fbsubscribe-widget.php:154
+#@ crumble
+msgid "Show Faces"
+msgstr ""
+
+#: functions/crumble-fblikebox-widget.php:142
+#@ crumble
+msgid "Show Stream"
+msgstr ""
+
+#: functions/crumble-fblikebox-widget.php:147
+#@ crumble
+msgid "Show Header"
+msgstr ""
+
+#: functions/crumble-fbsubscribe-widget.php:42
+#@ crumble
+msgid "FB Subscribe Widget"
+msgstr ""
+
+#: functions/crumble-fbsubscribe-widget.php:48
+#@ crumble
+msgid "TNA: FB Subscribe"
+msgstr ""
+
+#: functions/crumble-fbsubscribe-widget.php:115
+#@ crumble
+msgid "FB Subscribe"
+msgstr ""
+
+#: functions/crumble-fbsubscribe-widget.php:125
+#@ crumble
+msgid "Profile URL:"
+msgstr ""
+
+#: functions/crumble-fbsubscribe-widget.php:130
+#@ crumble
+msgid "Layout Style:"
+msgstr ""
+
+#: functions/crumble-flickr-widget.php:41
+#@ crumble
+msgid "TNA: Flickr Widget"
+msgstr ""
+
+#: functions/crumble-flickr-widget.php:140
+#@ crumble
+msgid "From Flickr"
+msgstr ""
+
+#: functions/crumble-flickr-widget.php:153
+#@ crumble
+msgid "User ID:"
+msgstr ""
+
+#: functions/crumble-flickr-widget.php:159
+#@ crumble
+msgid "The Number of Displayed Images:"
+msgstr ""
+
+#: functions/crumble-popular-post-widget.php:40
+#@ crumble
+msgid "A widget that show popular posts"
+msgstr ""
+
+#: functions/crumble-popular-post-widget.php:46
+#@ crumble
+msgid "TNA: Popular Posts"
+msgstr ""
+
+#: functions/crumble-popular-post-widget.php:139
+#@ crumble
+msgid "Popular Posts Widget"
+msgstr ""
+
+#: functions/crumble-popular-post-widget.php:148
+#@ crumble
+msgid "Show Count"
+msgstr ""
+
+#: functions/crumble-popular-post-widget.php:154
+#@ crumble
+msgid "Show thumbnail images"
+msgstr ""
+
+#: functions/crumble-recent-comments-widget.php:41
+#@ crumble
+msgid "Display Recent Comments"
+msgstr ""
+
+#: functions/crumble-recent-comments-widget.php:47
+#@ crumble
+msgid "TNA : Recent Comments"
+msgstr ""
+
+#: functions/crumble-recent-comments-widget.php:100
+#: functions/crumble-tabs-widget.php:144
+#@ your-theme
+#@ crumble
+msgid " ago"
+msgstr ""
+
+#: functions/crumble-recent-comments-widget.php:138
+#@ crumble
+msgid "Recent Comments"
+msgstr ""
+
+#: functions/crumble-recent-comments-widget.php:153
+#: functions/crumble-tabs-widget.php:230
+#@ crumble
+msgid "Length of comments: ( by default: 50 symbols )"
+msgstr ""
+
+#: functions/crumble-recent-comments-widget.php:159
+#@ crumble
+msgid "Show user avatar"
+msgstr ""
+
+#: functions/crumble-recent-posts-thumbs-widget.php:40
+#@ crumble
+msgid "Display Recent Posts Thumbs by Categories for Magazine/Single Post/Reviews Widgets"
+msgstr ""
+
+#: functions/crumble-recent-posts-thumbs-widget.php:46
+#@ crumble
+msgid "TNA : Recent Posts Thumbs"
+msgstr ""
+
+#: functions/crumble-recent-posts-thumbs-widget.php:117
+#@ crumble
+msgid "Recent Posts Thumbs"
+msgstr ""
+
+#: functions/crumble-recent-posts-widget.php:41
+#@ crumble
+msgid "Display Recent Posts by Categories"
+msgstr ""
+
+#: functions/crumble-recent-posts-widget.php:47
+#@ crumble
+msgid "TNA : Recent Posts"
+msgstr ""
+
+#: functions/crumble-recent-reviews-widget.php:41
+#@ crumble
+msgid "Display Recent Reviews in Sidebar"
+msgstr ""
+
+#: functions/crumble-recent-reviews-widget.php:47
+#@ crumble
+msgid "TNA : Recent Reviews"
+msgstr ""
+
+#: functions/crumble-recent-reviews-widget.php:180
+#@ crumble
+msgid "Recent Reviews"
+msgstr ""
+
+#: functions/crumble-related-posts-widget.php:42
+#@ crumble
+msgid "Related Posts Widget For Single Post"
+msgstr ""
+
+#: functions/crumble-related-posts-widget.php:48
+#@ crumble
+msgid "TNA: Related Posts"
+msgstr ""
+
+#: functions/crumble-related-posts-widget.php:144
+#@ crumble
+msgid "Related Posts"
+msgstr ""
+
+#: functions/crumble-sharethis-widget.php:42
+#@ crumble
+msgid "Share This Widget For Single Post"
+msgstr ""
+
+#: functions/crumble-sharethis-widget.php:48
+#@ crumble
+msgid "TNA: Share This"
+msgstr ""
+
+#: functions/crumble-sharethis-widget.php:94
+#@ crumble
+msgid "Share This Article"
+msgstr ""
+
+#: functions/crumble-sharethis-widget.php:115
+#@ crumble
+msgid "Paste Your Code From https://www.addthis.com:"
+msgstr ""
+
+#: functions/crumble-standardcomments-widget.php:42
+#@ crumble
+msgid "WP Standard Comments Widget For Single Post"
+msgstr ""
+
+#: functions/crumble-standardcomments-widget.php:48
+#@ crumble
+msgid "TNA: WP Comments"
+msgstr ""
+
+#: functions/crumble-tabs-widget.php:34
+#@ crumble
+msgid "Display Tabs Widget in Sidebar and Magazine Widgets"
+msgstr ""
+
+#: functions/crumble-tabs-widget.php:40
+#@ crumble
+msgid "TNA : Tabs Widget"
+msgstr ""
+
+#: functions/crumble-tabs-widget.php:191
+#@ crumble
+msgid "Title for 1st tab:"
+msgstr ""
+
+#: functions/crumble-tabs-widget.php:207
+#@ crumble
+msgid "The Number of posts:"
+msgstr ""
+
+#: functions/crumble-tabs-widget.php:215
+#@ crumble
+msgid "Comments"
+msgstr ""
+
+#: functions/crumble-tabs-widget.php:219
+#@ crumble
+msgid "Title for 2nd tab:"
+msgstr ""
+
+#: functions/crumble-tabs-widget.php:225
+#@ crumble
+msgid "The Number of comments:"
+msgstr ""
+
+#: functions/crumble-tabs-widget.php:237
+#@ crumble
+msgid "Tags"
+msgstr ""
+
+#: functions/crumble-tabs-widget.php:241
+#@ crumble
+msgid "Title for 3rd tab:"
+msgstr ""
+
+#: functions/crumble-video-widget.php:40
+#@ crumble
+msgid "Video Widget For Sidebar"
+msgstr ""
+
+#: functions/crumble-video-widget.php:46
+#@ crumble
+msgid "TNA : Video Widget"
+msgstr ""
+
+#: functions/crumble-video-widget.php:111
+#@ crumble
+msgid "Video"
+msgstr ""
+
+#: functions/crumble-video-widget.php:120
+#@ crumble
+msgid "Type:"
+msgstr ""
+
+#: functions/crumble-video-widget.php:129
+#@ crumble
+msgid "Video ID:"
+msgstr ""
+
+#: functions/crumble-widget-twitter.php:35
+#@ crumble
+msgid "Twitter Widget"
+msgstr ""
+
+#: functions/crumble-widget-twitter.php:41
+#@ crumble
+msgid "TNA : Twitter Widget"
+msgstr ""
+
+#: functions/crumble-widget-twitter.php:124
+#@ crumble
+msgid "From Twitter"
+msgstr ""
+
+#: functions/crumble-widget-twitter.php:137
+#@ crumble
+msgid "User Name:"
+msgstr ""
+
+#: functions/crumble-widget-twitter.php:143
+#@ crumble
+msgid "The Number of Displayed Messages:"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:18
+#@ crumble
+msgid "Reviews"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:19
+#@ crumble
+msgid "Review"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:20
+#@ crumble
+msgid "Add New"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:21
+#@ crumble
+msgid "Add New Review"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:22
+#@ crumble
+msgid "Edit"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:23
+#@ crumble
+msgid "Edit Review"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:24
+#@ crumble
+msgid "New Review"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:25
+#: functions/reviews/crumble_create_review.php:26
+#@ crumble
+msgid "View Review"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:27
+#@ crumble
+msgid "Search Reviews"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:28
+#@ crumble
+msgid "No reviews found"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:29
+#@ crumble
+msgid "No reviews found in Trash"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:30
+#@ crumble
+msgid "Parent Review"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:55
+#@ crumble
+msgctxt "taxonomy general name"
+msgid "Review Categories"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:56
+#@ crumble
+msgctxt "taxonomy singular name"
+msgid "Review Category"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:57
+#@ crumble
+msgid "Search Review Categories"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:58
+#@ crumble
+msgid "All Review Categories"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:59
+#@ crumble
+msgid "Parent Review Category"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:60
+#@ crumble
+msgid "Parent Review Category:"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:61
+#@ crumble
+msgid "Edit Review Category"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:62
+#@ crumble
+msgid "Update Review Category"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:63
+#@ crumble
+msgid "Add New Review Category"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:64
+#@ crumble
+msgid "New Review Category Name"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:65
+#@ crumble
+msgid "Categories"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:172
+#@ crumble
+msgid "Use Review Score"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:182
+#@ crumble
+msgid "OWN CRITERIAS"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:189
+#@ crumble
+msgid "Name for Criteria #1"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:190
+#@ crumble
+msgid "Type name for Criteria #1"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:198
+#@ crumble
+msgid "Review Criteria #1"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:208
+#@ crumble
+msgid "Name for Criteria #2"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:209
+#@ crumble
+msgid "Type name for Criteria #2"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:216
+#@ crumble
+msgid "Review Criteria #2"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:226
+#@ crumble
+msgid "Name for Criteria #3"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:227
+#@ crumble
+msgid "Type name for Criteria #3"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:235
+#@ crumble
+msgid "Review Criteria #3"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:244
+#@ crumble
+msgid "Name for Criteria #4"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:245
+#@ crumble
+msgid "Type name for Criteria #4"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:253
+#@ crumble
+msgid "Review Criteria #4"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:263
+#@ crumble
+msgid "Name for Criteria #5"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:264
+#@ crumble
+msgid "Type name for Criteria #5"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:272
+#@ crumble
+msgid "Review Criteria #5"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:282
+#@ crumble
+msgid "OVERALL SCORE"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:289
+#@ crumble
+msgid "Name for Overall Score"
+msgstr ""
+
+#: functions/reviews/crumble_create_review.php:290
+#@ crumble
+msgid "Type name for Overall Score"
+msgstr ""
+
+#: functions/social-counter/scw_stats.class.php:51
+#@ crumble
+msgid "Followers"
+msgstr ""
+
+#: functions/social-counter/scw_stats.class.php:60
+#@ crumble
+msgid "Fans"
+msgstr ""
+
+#: functions/social-counter/scw_stats.class.php:68
+#@ crumble
+msgid "Subscribers"
+msgstr ""
+
+#: functions/social-counter/social-counter-widget.php:89
+#@ crumble
+msgid "Twitter ID:"
+msgstr ""
+
+#: functions/social-counter/social-counter-widget.php:93
+#@ crumble
+msgid "Facebook page URL:"
+msgstr ""
+
+#: functions/social-counter/social-counter-widget.php:97
+#@ crumble
+msgid "Feedburner URL:"
+msgstr ""
+
+#: functions.php:29
+#@ framework
+msgid "main navigation"
+msgstr ""
+
+#: functions.php:30
+#@ framework
+msgid "additional navigation"
+msgstr ""
+
+#: functions.php:454
+#@ CrumbleMagazine
+msgid "Anonymous"
+msgstr ""
+
+#: functions.php:470
+#@ crumble
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:102
+#@ crumble
+msgid "Search on site ..."
+msgstr "Zoeken op de site..."
+
+#: includes/author_social.php:34
+#@ crumble
+msgid "Twitter Service:"
+msgstr ""
+
+#: includes/author_social.php:38
+#@ crumble
+msgid "Please enter your Twitter username."
+msgstr ""
+
+#: includes/author_social.php:42
+#@ crumble
+msgid "Facebook Service:"
+msgstr ""
+
+#: includes/author_social.php:46
+#@ crumble
+msgid "Please enter your Facebook username."
+msgstr ""
+
+#: includes/author_social.php:50
+#@ crumble
+msgid "Google Plus Service:"
+msgstr ""
+
+#: includes/author_social.php:54
+#@ crumble
+msgid "Please enter your Google Plus username."
+msgstr ""
+
+#: includes/author_social.php:58
+#@ crumble
+msgid "Flickr Service:"
+msgstr ""
+
+#: includes/author_social.php:62
+#@ crumble
+msgid "Please enter your Flickr username."
+msgstr ""
+
+#: includes/post_views.php:34
+#@ crumble
+msgid "Views"
+msgstr ""
+
+#: search.php:27
+#@ crumble
+msgid "Results for"
+msgstr ""
+
+#: searchform.php:3
+#@ crumble
+msgid "Search on site"
+msgstr "Zoeken op de site"
+

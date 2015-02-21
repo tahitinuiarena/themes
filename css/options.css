@@ -1,0 +1,89 @@
+
+body, .body-class {
+	background: none;
+	background-color: #666262}
+
+::selection { 	background-color: #921529 !important;	 }
+
+::-moz-selection { 	background-color: #921529 !important;	 }
+
+
+.one_fourth.underline:hover, .one_third.underline:hover {
+	border-bottom: 1px solid #921529;
+}
+
+#socialCounterWidget .icon { 
+	background-color: #921529 !important;	
+}
+
+a.bg-link:hover, .footer a:hover {
+	background-color: #921529 !important;	
+}
+
+span.dropcap.custom  {
+	color: #921529;	
+}
+
+.highlight.custom   {
+	background: #921529;	
+}
+
+
+h2.featured-carousel-title { 
+	background-color: #921529 !important;	
+}
+
+.right-review-block {
+	background-color: #921529;	
+}
+span.page-numbers.current {
+	background-color: #921529;	
+}
+.tabs li.current {
+	background-color: #921529;	
+}
+.tabs li:hover, .vertical .tabs li:hover {
+		background-color: #921529 !important;	
+}
+.widget .box .tagcloud a:hover { 
+	background-color: #921529;	
+}
+.widget a:hover {
+	background-color: #921529;	
+}
+.post-title h4, .widget-title h4, .post-title h2, .widget-title h2 { 
+	background-color: #921529 !important;	
+}
+
+#wrapper .copyright a:hover {
+	background-color: #921529;	
+}
+
+.related-posts-single li span a:hover {
+	background-color: #921529 !important;	
+}
+.single-post-format-icon, h2.single-title {
+	background-color: #921529;	
+}
+.overall-head, a[rel=prev]:hover, a[rel=next]:hover {
+	background-color: #921529;	
+}
+
+.single-post-meta li a:hover, .standard-link a:hover {
+	background-color: #921529;	
+}
+
+a.comment-reply-link:hover, input[type=submit] {
+	background-color: #921529;	
+}
+.nivo-controlNav a {
+	background-color: #FFF;
+}	
+
+.nivo-controlNav a.active {
+	background-color: #2a2a2a;
+}	
+
+a.socialCounterBox:hover {
+	background: none !important
+}
